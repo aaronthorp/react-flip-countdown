@@ -1,24 +1,24 @@
-# @rumess/react-flip-countdown
+# @aaronthorp/react-flip-countdown
 
 > The React Flip Countdown Component.
 
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
-[![NPM Installs](https://img.shields.io/npm/dt/@rumess/react-flip-countdown?label=installs)](https://www.npmjs.com/package/@rumess/react-flip-countdown)
+[![NPM Installs](https://img.shields.io/npm/dt/@aaronthorp/react-flip-countdown?label=installs)](https://www.npmjs.com/package/@aaronthorp/react-flip-countdown)
 [![JavaScript Style Guide][coding-image]][coding-url]
 
-[DEMO](https://rumess.github.io/react-flip-countdown/)
+[DEMO](https://aaronthorp.github.io/react-flip-countdown/)
 
 ## Install
 
 Using npm:
 ```bash
-npm install @rumess/react-flip-countdown
+npm install @aaronthorp/react-flip-countdown
 ```
 
 Using yarn:
 ```bash
-yarn add @rumess/react-flip-countdown
+yarn add @aaronthorp/react-flip-countdown
 ```
 
 ## Usage
@@ -28,7 +28,7 @@ yarn add @rumess/react-flip-countdown
 ```jsx
 import React, { Component } from 'react';
 
-import FlipCountdown from '@rumess/react-flip-countdown';
+import FlipCountdown from '@aaronthorp/react-flip-countdown';
 
 class ExampleBasic extends Component {
     render() {
@@ -46,7 +46,7 @@ class ExampleBasic extends Component {
 ```jsx
 import React, { Component } from 'react';
 
-import FlipCountdown from '@rumess/react-flip-countdown';
+import FlipCountdown from '@aaronthorp/react-flip-countdown';
 
 class ExampleSize extends Component {
     render() {
@@ -65,7 +65,7 @@ class ExampleSize extends Component {
 ```jsx
 import React, { Component } from 'react';
 
-import FlipCountdown from '@rumess/react-flip-countdown';
+import FlipCountdown from '@aaronthorp/react-flip-countdown';
 
 class ExampleTheme extends Component {
     render() {
@@ -84,7 +84,7 @@ class ExampleTheme extends Component {
 ```jsx
 import React, { Component } from 'react';
 
-import FlipCountdown from '@rumess/react-flip-countdown';
+import FlipCountdown from '@aaronthorp/react-flip-countdown';
 
 class ExampleTitlePosition extends Component {
     render() {
@@ -103,7 +103,7 @@ class ExampleTitlePosition extends Component {
 ```jsx
 import React, { Component } from 'react';
 
-import FlipCountdown from '@rumess/react-flip-countdown';
+import FlipCountdown from '@aaronthorp/react-flip-countdown';
 
 class ExampleChangeTitle extends Component {
     render() {
@@ -127,7 +127,7 @@ class ExampleChangeTitle extends Component {
 ```jsx
 import React, { Component } from 'react';
 
-import FlipCountdown from '@rumess/react-flip-countdown';
+import FlipCountdown from '@aaronthorp/react-flip-countdown';
 
 class ExampleHideSection extends Component {
     render() {
@@ -151,7 +151,7 @@ class ExampleHideSection extends Component {
 ```jsx
 import React, { Component } from 'react';
 
-import FlipCountdown from '@rumess/react-flip-countdown';
+import FlipCountdown from '@aaronthorp/react-flip-countdown';
 
 class ExampleHideSection extends Component {
     render() {
@@ -170,7 +170,7 @@ class ExampleHideSection extends Component {
 ```jsx
 import React, { Component } from 'react';
 
-import FlipCountdown from '@rumess/react-flip-countdown';
+import FlipCountdown from '@aaronthorp/react-flip-countdown';
 
 class ExampleHideSection extends Component {
     render() {
@@ -186,11 +186,11 @@ class ExampleHideSection extends Component {
 
 ## License
 
-MIT © [rumess](https://github.com/rumess)
+MIT © [aaronthorp](https://github.com/aaronthorp)
 
-[npm-image]: https://img.shields.io/npm/v/@rumess/react-flip-countdown.svg
-[npm-url]: https://npmjs.org/package/@rumess/react-flip-countdown
-[downloads-image]: https://img.shields.io/npm/dm/@rumess/react-flip-countdown.svg
-[downloads-url]: https://npmcharts.com/compare/@rumess/react-flip-countdown?minimal=true
+[npm-image]: https://img.shields.io/npm/v/@aaronthorp/react-flip-countdown.svg
+[npm-url]: https://npmjs.org/package/@aaronthorp/react-flip-countdown
+[downloads-image]: https://img.shields.io/npm/dm/@aaronthorp/react-flip-countdown.svg
+[downloads-url]: https://npmcharts.com/compare/@aaronthorp/react-flip-countdown?minimal=true
 [coding-image]: https://img.shields.io/badge/code_style-standard-brightgreen.svg
 [coding-url]: https://standardjs.com
